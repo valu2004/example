@@ -8,3 +8,4 @@ List of elements we need:
 3. A bottle of water
 4. A backpack
 5. Medications
+6. Boots
